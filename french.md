@@ -168,7 +168,7 @@ class Client extends Model
 ### **Validation**
 
 Déplacez la validation des contrôleurs vers les classes Request.
-
+[日本語](japanese.md) (by [2bo](https://github.com/2bo))
 Mal:
 
 ```php
